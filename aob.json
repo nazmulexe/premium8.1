@@ -2,7 +2,7 @@
 
 
 
-"update":" Play 15+ Match In 2nd Id then play Main Id",
+"update":" Panel Safe Now But Dont Over kill",
 
 
 
@@ -19,9 +19,9 @@
 "aimbotheadn_r":"180",
 "aimbotheadn_w":"184",
 
-"aimbotdragn_s":"",
-"aimbotdragn_r":"204",
-"aimbotdragn_w":"196",
+"aimbotdragn_s":"00 00 00 00 00 FF FF FF FF FF FF FF FF FF FF FF FF 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 FF FF FF FF 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? 00 00 00 00 00 00 00 00 00 00 00 00 00 00 A5 43",
+"aimbotdragn_r":"149",
+"aimbotdragn_w":"145",
 
 "sniperscope_s":"FF FF FF FF 08 00 00 00 00 00 60 40 CD CC 8C 3F 8F C2 F5 3C CD CC CC 3D 06 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 3F 33 33 13 40 00 00 B0 3F 00 00 80 3F 01",
 "sniperscope_r":"FF FF FF FF 08 00 00 00 00 00 60 40 CD CC 8C 3F 8F C2 F5 3C CD CC CC 3D 06 00 00 00 00 00 19 3E 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 3F 33 33 13 40 00 00 B0 3F 00 00 80 3F 01",
